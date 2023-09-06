@@ -10,5 +10,6 @@ Calculates the returns for the selected share over different time periods, and p
 
 Plots the correlation between the closing prices of two selected shares
 
-**Tech Stack**
+**Tech Stack:**
+
 Python: Pandas to load the dataset, Matplotlib and Seaborn to visualize data. IPyWidgets for the UI
